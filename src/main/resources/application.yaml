@@ -1,0 +1,7 @@
+spring:
+  application.name: spring-ai-ollama
+  ai.ollama:
+    base-url: ${LLM_URL:http://localhost:11434}
+    chat.options:
+      model: ${LLM_MODEL:llama3}
+      temperature: ${LLM_TEMP:0.7}

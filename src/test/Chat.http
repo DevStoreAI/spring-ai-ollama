@@ -1,0 +1,9 @@
+### POST example to send a message prompt to AI
+POST localhost:8080/ai
+Content-Type: application/json
+
+{
+  "prompt": "What is the greatest country in the planet?"
+}
+
+###
