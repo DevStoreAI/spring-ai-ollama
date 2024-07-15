@@ -31,7 +31,7 @@ shows below:
 #### Spring Run Configuration example
 ![Spring Run Configuration example](./doc/images/spring_run-configuration.png "Spring Run Configuration example")
 #### Run LLM script configuration example
-![Run LLM script configuration example](./doc/images/run_llm-script configuration.png "Run LLM script configuration")
+![Run LLM script configuration example](./doc/images/run_llm-script_configuration.png "Run LLM script configuration")
 
 ## Application Usage
 
